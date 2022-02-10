@@ -30,7 +30,7 @@
     "eslint-config-prettier": "^6.10.0",
     "eslint-plugin-nuxt": ">=0.4.2",
     "eslint-plugin-prettier": "^3.1.2",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "nuxt-property-decorator": "^2.5.1",
     "prettier": "^2.0.2",
     "pug": "^2.0.4",
